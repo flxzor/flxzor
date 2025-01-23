@@ -23,6 +23,7 @@
 <br/>
 <div align="center">
   <a href="https://discord.com/users/773044016023076865"><img src="https://lanyard.cnrad.dev/api/773044016023076865?showDisplayName=true&bg=000000" /></a>
+  <a href="https://app.daily.dev/flxzor"><img src="https://api.daily.dev/devcards/v2/A1xyuOGcKSYnYSJrKGYw8.png?r=wjs&type=default" width="356" alt="Felix's Dev Card"/></a>
 </div>
 <br>
 <br/>
