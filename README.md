@@ -15,7 +15,7 @@
     I'm a Software Engineering student who's really into technology and innovation. I want to make useful and accessible solutions.
     <h3>Languages or Frameworks I Know</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,py,dart,flutter,java,ts&perline=5">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,py,dart,flutter,java,ts&perline=6">
     </a>
 </div>
 
