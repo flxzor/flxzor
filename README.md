@@ -23,7 +23,6 @@
 <br/>
 <div align="center">
   <a href="https://discord.com/users/773044016023076865"><img src="https://lanyard.cnrad.dev/api/773044016023076865?showDisplayName=true&bg=000000" /></a>
-  ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=flxzor&show_icons=true&theme=radical)
 </div>
 <br>
 <br/>
