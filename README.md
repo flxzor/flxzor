@@ -24,6 +24,12 @@
 <div align="center">
   <a href="https://discord.com/users/773044016023076865"><img src="https://lanyard.cnrad.dev/api/773044016023076865?showDisplayName=true&bg=000000" /></a>
 </div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flxzor&theme=dark&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flxzor&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flxzor&theme=dark&hide_border=true">
+</div>
 <br>
 <br/>
 <div align="center">
